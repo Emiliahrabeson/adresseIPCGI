@@ -1,0 +1,9 @@
+#!/bin/bash
+sudo chmod 777 *
+gcc connecter.c -o connecter.cgi
+gcc deja.c -o deja.cgi
+gcc compare.c -o compare.cgi
+gcc enter_adress.c -o enter_adress.cgi
+gcc tester.c -o tester.cgi
+gcc create.c -o create.cgi
+gcc create2.c -o create2.cgi
